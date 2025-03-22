@@ -1,0 +1,11 @@
+  ###################
+###    Notebooks   ###
+  ###################
+
+Experience 1: https://www.kaggle.com/code/edoudou/chess-detection-exp-1
+
+Experience 2: https://www.kaggle.com/code/edoudou/chess-detection-exp-2
+
+Experience 3: https://www.kaggle.com/code/edoudou/chess-detection-exp-3
+
+Experience 4: https://www.kaggle.com/code/edoudou/chess-detection-exp-4

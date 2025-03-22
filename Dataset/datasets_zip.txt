@@ -1,0 +1,23 @@
+  ################
+### Dataset zip: ###
+  ################
+
+##################################
+Chess_dataset en zip:
+##################################
+https://app.roboflow.com/ds/oRafyoBHP8?key=WciwWCUE7l
+
+##################################
+Vehicle en zip:
+##################################
+https://app.roboflow.com/ds/DArvwmZkRm?key=FqKvJ6pg5Z
+
+##################################
+COCO en zip:
+##################################
+https://app.roboflow.com/ds/uFmvJA49Zi?key=x9xCBWR3HO
+
+##################################
+Chess_dataset en zip:
+##################################
+https://app.roboflow.com/ds/uYmDlTL3vR?key=Apzih7YgMy

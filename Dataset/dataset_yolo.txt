@@ -1,0 +1,48 @@
+  ################
+### Dataset zip: ###
+  ################
+
+##################################
+Chess_dataset en yolo:
+##################################
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="fCQcZUpzybUUQxFuJtLc")
+project = rf.workspace("edouard-rgh61").project("my-first-project-stbr2")
+version = project.version(2)
+dataset = version.download("yolov8")
+
+##################################
+Vehicle en yolo:
+##################################
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="fCQcZUpzybUUQxFuJtLc")
+project = rf.workspace("edouard-rgh61").project("vehicleclassify-2vfac-ojpuw")
+version = project.version(1)
+dataset = version.download("yolov8")
+
+##################################
+COCO en yolo:
+##################################
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="fCQcZUpzybUUQxFuJtLc")
+project = rf.workspace("edouard-rgh61").project("coco-o5jsy")
+version = project.version(2)
+dataset = version.download("yolov8")
+
+##################################
+Chess_dataset en yolo:
+##################################
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="fCQcZUpzybUUQxFuJtLc")
+project = rf.workspace("edouard-rgh61").project("chess_test-evkri")
+version = project.version(3)
+dataset = version.download("yolov8")
+                
