@@ -1,0 +1,6 @@
+#####################
+####   Weight on ####
+#####################
+
+Link to GitHub Release:
+https://github.com/ChapponE/An-Object-Detection-Ramble-with-YOLOv8n-Application-to-Chess-Pieces/releases/tag/v1.0.3
